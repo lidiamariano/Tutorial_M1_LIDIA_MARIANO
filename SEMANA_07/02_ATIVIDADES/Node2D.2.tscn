@@ -1,9 +1,0 @@
-[gd_scene load_steps=2 format=2]
-
-[ext_resource path="res://y! (4).png" type="Texture" id=1]
-
-[node name="Node2D" type="Node2D"]
-
-[node name="Y!(4)" type="Sprite" parent="."]
-position = Vector2( 514, 301 )
-texture = ExtResource( 1 )
